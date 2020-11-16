@@ -1,0 +1,9 @@
+ahmet:makine:70:85:70
+mehmet:gida:45:45:75
+meral:gemi:95:50:65
+samet:makine:70:40:40
+hasan:enerji:80:70:75
+osman:makine:90:70:59
+murat:enerji:100:25:60
+mustafa:makine:60:55:60
+yusuf:ucak:60:60:60
